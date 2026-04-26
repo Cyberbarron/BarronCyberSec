@@ -1,0 +1,5 @@
+Authentication failure is when an attacker can login as someone else beccause the website can't properly verify who you are
+authorization failure means after login the user can access stuffs they weren't supposed to be able to see
+access control means recording and alerting who did it, when and from where
+
+What i learned: these are one of the most common ways for real websites to get hacked. As a security engineer i need to check for these
